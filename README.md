@@ -18,7 +18,7 @@ This is a personal portfolio website built with HTML, CSS, and JavaScript, hoste
 5. Enable GitHub Pages in repository settings
 
 # Live Demo
-The website is hosted at: [https://marcusainebyona362.github.io/Marcus-Ainebyona-Portfolio.io/]
+The website is hosted at: [https://marcusainebyona362.github.io/Marcus-Ainebyona-Portfolio.io/] (https://github.com/marcusainebyona362/Marcus-Ainebyona-Portfolio.io/blob/main/Portifolio.html)
 
 # Technologies Used
 - HTML
